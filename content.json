@@ -1,0 +1,107 @@
+{
+  "title": "Marcus Vetter",
+  "header": {
+    "title": "Marcus Vetter"
+  },
+  "home": {
+    "academicTitle": "",
+    "firstname": "Marcus",
+    "lastname": "Vetter",
+    "skills": ["Fullstack developer.", "Software architect.", "Frontend expert."]
+  },
+  "aboutMe": {
+    "profileImage": "marcus.jpg",
+    "headline": "Hey, I'm Marcus!",
+    "bullets": ["Fullstack developer", "Software architect", "Agilist", "Frontend expert"]
+  },
+  "cv": {
+    "image": "notebook.jpg",
+    "headline": "Curriculum Vitae",
+    "items": [
+      {
+        "icon": "https://media.licdn.com/dms/image/C4D0BAQEutSaRuOuSyA/company-logo_400_400/0?e=1560988800&v=beta&t=85bsWPbW1kE8obbPh_cU1E5DRN-SMwKZQgLar4e8Dvo",
+        "timeframe": {
+          "from": "Since",
+          "to": "Sep. 2016"
+        },
+        "company": "Audi Business Innovation GmbH",
+        "jobSpecification": "Lead Fullstack Developer, Software Architect"
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "timeframe": {
+          "from": "Nov. 2014 —",
+          "to": "Aug. 2016"
+        },
+        "company": "Zühlke Engineering GmbH",
+        "jobSpecification": "Advanced Software Engineer"
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "timeframe": {
+          "from": "Apr. 2014 —",
+          "to": "Oct. 2014"
+        },
+        "company": "Zühlke Engineering GmbH",
+        "jobSpecification": "Master's degree candidate (Software Engineering)"
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C560BAQEAj0Aclcw16w/company-logo_400_400/0?e=1560988800&v=beta&t=GJOYKvn0vNutmJnNf2QCwdCEnQmFcEnVURxUg8d6nq8",
+        "timeframe": {
+          "from": "Nov. 2013 —",
+          "to": "Feb. 2014"
+        },
+        "company": "Siemens AG, Corporate Technology",
+        "jobSpecification": "Working student (Software Engineering)"
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "timeframe": {
+          "from": "Aug. 2013 —",
+          "to": "Oct. 2013"
+        },
+        "company": "Zühlke Engineering GmbH",
+        "jobSpecification": "Intern (Software Engineering)"
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C4E0BAQEtded5tz2KpA/company-logo_400_400/0?e=1560988800&v=beta&t=zfepXiaCx8KQc14Up5MbX9LC5tbHFHX-W3cSEmpTM2g",
+        "timeframe": {
+          "from": "Oct. 2012 —",
+          "to": "Oct. 2014"
+        },
+        "company": "Technical University of Munich, LMU München, University of Augsburg",
+        "jobSpecification": "Software Engineering, Master of Science with honours",
+        "descriptions": [
+          "Software Engineering, Formal Methods, Database Systems, Distributed Systems, Human-Computer Interaction"
+        ]
+      },
+      {
+        "icon": "https://media.licdn.com/dms/image/C560BAQEtpsehagi0iQ/company-logo_400_400/0?e=1560988800&v=beta&t=2PYljG_oiyCWBTT3Km8nB0WvBUOyhgFcWB_CYLOFVwE",
+        "timeframe": {
+          "from": "Oct. 2009 —",
+          "to": "Oct. 2012"
+        },
+        "company": "Universify of Stuttgart",
+        "jobSpecification": "Softwaretechnik, Bachelor of Science"
+      }
+    ]
+  },
+  "interests": {
+    "image": "singapore.jpg",
+    "headline": "Interests",
+    "items": ["Acrylic paintings", "Playing piano", "Dancing", "Traveling"]
+  },
+  "footer": {
+    "copyrightHolder": "Marcus Vetter",
+    "socialLinks": [
+      {
+        "icon": "mdi-linkedin-box",
+        "link": "https://www.linkedin.com/in/marcus-vetter-9b0a4582/"
+      },
+      {
+        "icon": "mdi-xing-box",
+        "link": "https://www.xing.com/profile/Marcus_Vetter9/cv"
+      }
+    ]
+  }
+}

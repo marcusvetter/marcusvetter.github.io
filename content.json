@@ -19,7 +19,7 @@
     "headline": "Curriculum Vitae",
     "items": [
       {
-        "icon": "https://media.licdn.com/dms/image/C4D0BAQEutSaRuOuSyA/company-logo_400_400/0?e=1560988800&v=beta&t=85bsWPbW1kE8obbPh_cU1E5DRN-SMwKZQgLar4e8Dvo",
+        "icon": "assets/logos/audi.png",
         "timeframe": {
           "from": "Since",
           "to": "Sep. 2016"
@@ -28,7 +28,7 @@
         "jobSpecification": "Lead Fullstack Developer, Software Architect"
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "icon": "assets/logos/zuehlke.jpeg",
         "timeframe": {
           "from": "Nov. 2014 —",
           "to": "Aug. 2016"
@@ -37,7 +37,7 @@
         "jobSpecification": "Advanced Software Engineer"
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "icon": "assets/logos/zuehlke.jpeg",
         "timeframe": {
           "from": "Apr. 2014 —",
           "to": "Oct. 2014"
@@ -46,7 +46,7 @@
         "jobSpecification": "Master's degree candidate (Software Engineering)"
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C560BAQEAj0Aclcw16w/company-logo_400_400/0?e=1560988800&v=beta&t=GJOYKvn0vNutmJnNf2QCwdCEnQmFcEnVURxUg8d6nq8",
+        "icon": "assets/logos/siemens.jpeg",
         "timeframe": {
           "from": "Nov. 2013 —",
           "to": "Feb. 2014"
@@ -55,7 +55,7 @@
         "jobSpecification": "Working student (Software Engineering)"
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4D0BAQElGNAelLPEGg/company-logo_400_400/0?e=1560988800&v=beta&t=qOnfL4Vi6g8xUuSiexkoYk1AVThT_i2CBJ_9h_7mtMY",
+        "icon": "assets/logos/zuehlke.jpeg",
         "timeframe": {
           "from": "Aug. 2013 —",
           "to": "Oct. 2013"
@@ -64,7 +64,7 @@
         "jobSpecification": "Intern (Software Engineering)"
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C4E0BAQEtded5tz2KpA/company-logo_400_400/0?e=1560988800&v=beta&t=zfepXiaCx8KQc14Up5MbX9LC5tbHFHX-W3cSEmpTM2g",
+        "icon": "assets/logos/tum.png",
         "timeframe": {
           "from": "Oct. 2012 —",
           "to": "Oct. 2014"
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "icon": "https://media.licdn.com/dms/image/C560BAQEtpsehagi0iQ/company-logo_400_400/0?e=1560988800&v=beta&t=2PYljG_oiyCWBTT3Km8nB0WvBUOyhgFcWB_CYLOFVwE",
+        "icon": "assets/logos/unistuttgart.png",
         "timeframe": {
           "from": "Oct. 2009 —",
           "to": "Oct. 2012"

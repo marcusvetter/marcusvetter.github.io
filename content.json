@@ -22,10 +22,37 @@
         "icon": "assets/logos/audi.png",
         "timeframe": {
           "from": "Since",
-          "to": "Sep. 2016"
+          "to": "Aug. 2019"
         },
         "company": "Audi Business Innovation GmbH",
-        "jobSpecification": "Lead Fullstack Developer, Software Architect"
+        "jobSpecification": "Solution & Coding Architect"
+      },
+      {
+        "icon": "assets/logos/audi.png",
+        "timeframe": {
+          "from": "Aug. 2019",
+          "to": "Jul. 2019"
+        },
+        "company": "Audi Business Innovation GmbH",
+        "jobSpecification": "Coding Architect & Mobility Architecture Associate"
+      },
+      {
+        "icon": "assets/logos/audi.png",
+        "timeframe": {
+          "from": "Mar. 2018",
+          "to": "Jul. 2018"
+        },
+        "company": "Audi Business Innovation GmbH",
+        "jobSpecification": "Coding Architect"
+      },
+      {
+        "icon": "assets/logos/audi.png",
+        "timeframe": {
+          "from": "Sep. 2016",
+          "to": "Feb. 2018"
+        },
+        "company": "Audi Business Innovation GmbH",
+        "jobSpecification": "Agile Fullstack Developer"
       },
       {
         "icon": "assets/logos/zuehlke.jpeg",
